@@ -1,1 +1,1 @@
-alert("my alert");
+alert("my perfect alert");
